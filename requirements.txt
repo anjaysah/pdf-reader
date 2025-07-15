@@ -1,0 +1,14 @@
+langchain
+gradio
+langchain-ollama
+langchain_community
+python-dotenv
+sentence_transformers
+streamlit
+speechrecognition
+pyttsx3
+pyaudio
+pypdf
+langchain
+faiss-cpu
+dotenv
